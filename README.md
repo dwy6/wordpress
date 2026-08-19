@@ -4,7 +4,7 @@
 > [dwy6/wordpress](https://github.com/dwy6/wordpress)
 
 - 当前最新版本: **7.0.4**
-- 同步时间: **2026-08-20 00:30:03**
+- 同步时间: **2026-08-20 00:37:21**
 - 分支: **main**
 
 ## 目录结构
@@ -36,7 +36,7 @@ git clone https://github.com/dwy6/wordpress.git
 cp data/latest/wordpress.zip ./wordpress.zip
 ```
 
-**Raw 直接下载:**
+**Raw 直链下载:**
 
 ```bash
 curl -L -o wordpress.zip "https://raw.githubusercontent.com/dwy6/wordpress/main/data/latest/wordpress-latest.zip"
